@@ -1,5 +1,6 @@
 # LLMs In Spanish
-LLMs in Spanish
+
+This repo is dedicated to LLMs in Spanish.
 
 ### Leaderboard de modelos de Embeddings en español Massive Spanish Text Embedding Benchmark (MSTEB) Leaderboard.
 https://huggingface.co/spaces/clibrain/Spanish-Embeddings-Leaderboard
