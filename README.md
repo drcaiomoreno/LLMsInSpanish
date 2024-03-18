@@ -2,6 +2,9 @@
 
 This repo is dedicated to LLMs in Spanish.
 
+### SomosNLP
+https://somosnlp.org/
+
 ### Leaderboard de modelos de Embeddings en español Massive Spanish Text Embedding Benchmark (MSTEB) Leaderboard.
 https://huggingface.co/spaces/clibrain/Spanish-Embeddings-Leaderboard
 
@@ -45,6 +48,12 @@ Clibrain Delivers LLM Optimized for Spanish Using AWS | Amazon Web Services
 https://www.youtube.com/watch?v=U-X8_MGLMUE
 
 ### Startups
+https://huggingface.co/clibrain<BR>
+https://www.narrativa.com/<BR>
+https://maisa.ai/<BR>
+
+
+
 
 
 
