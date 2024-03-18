@@ -61,6 +61,7 @@ https://maisa.ai/<BR>
 
 ### Other links:
 LangChain: https://python.langchain.com/docs/get_started/introduction <BR>
+Optimizing LLMs for Speed and Memory: https://huggingface.co/docs/transformers/en/llm_tutorial_optimization<BR>
 Lora: https://huggingface.co/docs/diffusers/main/en/training/lora <BR>
 QLoRA: Efficient Finetuning of Quantized LLMs: https://huggingface.co/papers/2305.14314 <BR>
 Rank-Stabilized LoRA: Unlocking the Potential of LoRA Fine-Tuning: https://huggingface.co/blog/damjan-k/rslora <BR>
