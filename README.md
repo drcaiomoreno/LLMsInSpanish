@@ -2,6 +2,9 @@
 
 This repo is dedicated to LLMs in Spanish.
 
+### Code example:
+https://github.com/drcaiomoreno/LLMsInSpanish/blob/main/bert2bert_shared_spanish_finetuned_summarization.ipynb
+
 ### SomosNLP
 https://somosnlp.org/
 
