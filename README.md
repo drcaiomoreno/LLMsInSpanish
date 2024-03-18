@@ -5,6 +5,9 @@ This repo is dedicated to LLMs in Spanish.
 ### SomosNLP
 https://somosnlp.org/
 
+### BERTIN | Modelos #OpenSource de #PLN en Español
+https://www.youtube.com/playlist?list=PLTA-KAy8nxaCqUTiO2mwhBm_zXsTozUd4
+
 ### Leaderboard de modelos de Embeddings en español Massive Spanish Text Embedding Benchmark (MSTEB) Leaderboard.
 https://huggingface.co/spaces/clibrain/Spanish-Embeddings-Leaderboard
 
