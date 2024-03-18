@@ -59,7 +59,17 @@ https://www.narrativa.com/<BR>
 https://maisa.ai/<BR>
 
 
-
+### Other links:
+LangChain: https://python.langchain.com/docs/get_started/introduction <BR>
+Lora: https://huggingface.co/docs/diffusers/main/en/training/lora <BR>
+QLoRA: Efficient Finetuning of Quantized LLMs: https://huggingface.co/papers/2305.14314 <BR>
+Rank-Stabilized LoRA: Unlocking the Potential of LoRA Fine-Tuning: https://huggingface.co/blog/damjan-k/rslora <BR>
+NEFTune: Noisy Embeddings Improve Instruction Finetuning: https://huggingface.co/papers/2310.05914
+LLama2: https://huggingface.co/docs/transformers/en/model_doc/llama2
+Mixtral: https://huggingface.co/docs/transformers/en/model_doc/mixtral
+MPT: https://huggingface.co/docs/transformers/en/model_doc/mpt
+RAG: https://huggingface.co/docs/transformers/en/model_doc/rag
+Open AI GPT: https://huggingface.co/docs/transformers/en/model_doc/openai-gpt
 
 
 
