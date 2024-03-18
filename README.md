@@ -48,8 +48,12 @@ https://es.finance.yahoo.com/noticias/clibrain-presenta-lince-modelo-lenguaje-16
 Clibrain presenta LINCE, el primer modelo de lenguaje (LLM) optimizado para la IA en español<BR>
 https://www.programapublicidad.com/clibrain-presenta-lince-el-primer-modelo-de-lenguaje-llm-optimizado-para-la-ia-en-espanol/<BR>
 
-Clibrain Delivers LLM Optimized for Spanish Using AWS | Amazon Web Services
-https://www.youtube.com/watch?v=U-X8_MGLMUE
+Clibrain Delivers LLM Optimized for Spanish Using AWS | Amazon Web Services<BR>
+https://www.youtube.com/watch?v=U-X8_MGLMUE<BR>
+
+Qué sabemos del ChatGPT español que prepara el Gobierno<BR>
+https://hipertextual.com/2024/03/que-sabemos-chatgpt-espanol-prepara-gobierno<BR>
+
 
 ### Databricks
 https://www.youtube.com/watch?v=StBvyEdg_SE<BR>
@@ -77,6 +81,11 @@ Open AI GPT: https://huggingface.co/docs/transformers/en/model_doc/openai-gpt<BR
 Fine-tune a pretrained model: https://huggingface.co/docs/transformers/en/training<BR>
 Transformers Notebooks: https://huggingface.co/docs/transformers/en/notebooks<BR>
 Transformers Examples: https://github.com/huggingface/transformers/tree/main/examples<BR>
+Quanto: https://github.com/huggingface/quanto<BR>
+Quanto: https://huggingface.co/blog/quanto-introduction<BR>
+HF Posts: https://huggingface.co/posts<BR>
+HF Papers: https://huggingface.co/papers<BR>
+
 
 
 
