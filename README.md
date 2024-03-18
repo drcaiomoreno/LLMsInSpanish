@@ -27,8 +27,6 @@ https://huggingface.co/clibrain/lince-zero
 ### Lince Zero
 https://huggingface.co/clibrain/lince-zero
 
-
-
 ### Lince (LLM in Spanish)
 https://es.wired.com/articulos/elena-gonzalez-blanco-impulsa-la-ia-en-espanol-con-clibrain-y-lince
 
@@ -53,6 +51,11 @@ https://www.programapublicidad.com/clibrain-presenta-lince-el-primer-modelo-de-l
 Clibrain Delivers LLM Optimized for Spanish Using AWS | Amazon Web Services
 https://www.youtube.com/watch?v=U-X8_MGLMUE
 
+### Databricks
+https://www.youtube.com/watch?v=StBvyEdg_SE<BR>
+https://www.databricks.com/resources/demos/tutorials/data-science-and-ai/lakehouse-ai-deploy-your-llm-chatbot<BR>
+
+
 ### Startups
 https://huggingface.co/clibrain<BR>
 https://www.narrativa.com/<BR>
@@ -71,7 +74,9 @@ Mixtral: https://huggingface.co/docs/transformers/en/model_doc/mixtral<BR>
 MPT: https://huggingface.co/docs/transformers/en/model_doc/mpt<BR>
 RAG: https://huggingface.co/docs/transformers/en/model_doc/rag<BR>
 Open AI GPT: https://huggingface.co/docs/transformers/en/model_doc/openai-gpt<BR>
-
+Fine-tune a pretrained model: https://huggingface.co/docs/transformers/en/training<BR>
+Transformers Notebooks: https://huggingface.co/docs/transformers/en/notebooks<BR>
+Transformers Examples: https://github.com/huggingface/transformers/tree/main/examples<BR>
 
 
 
